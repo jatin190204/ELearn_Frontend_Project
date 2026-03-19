@@ -17,7 +17,7 @@
 
   ## How to Run
 1. Download or clone the repository
-2. Open index.html in your browser
+2. Open dashboard.html in your browser
 
 ## Folder Structure
 - index.html
